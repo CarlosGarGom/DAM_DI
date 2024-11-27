@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\bin\Debug\net8.0\Ej_Delegado.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\bin\Debug\net8.0\Ej_Delegado.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\bin\Debug\net8.0\Ej_Delegado.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\bin\Debug\net8.0\Ej_Delegado.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\bin\Debug\net8.0\Ej_Delegado.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\refint\Ej_Delegado.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\Ej_Delegado.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej_Delegado\obj\Debug\net8.0\ref\Ej_Delegado.dll

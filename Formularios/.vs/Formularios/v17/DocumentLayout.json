@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|solutionrelative:numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|solutionrelative:numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs",
+              "RelativeDocumentMoniker": "NumericDomainUpDown\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "NumericDomainUpDown\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:48:24.927Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs",
+              "RelativeDocumentMoniker": "NumericDomainUpDown\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs",
+              "RelativeToolTip": "NumericDomainUpDown\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAzwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:48:21.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

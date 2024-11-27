@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\bin\Debug\net8.0-windows\EventosTecladoRaton.exe
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\bin\Debug\net8.0-windows\EventosTecladoRaton.deps.json
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\bin\Debug\net8.0-windows\EventosTecladoRaton.runtimeconfig.json
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\bin\Debug\net8.0-windows\EventosTecladoRaton.dll
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\bin\Debug\net8.0-windows\EventosTecladoRaton.pdb
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.Form1.resources
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.AssemblyInfo.cs
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.dll
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\refint\EventosTecladoRaton.dll
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.pdb
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\EventosTecladoRaton.genruntimeconfig.cache
+C:\Users\admin\source\repos\Formularios\EventosTecladoRaton\obj\Debug\net8.0-windows\ref\EventosTecladoRaton.dll

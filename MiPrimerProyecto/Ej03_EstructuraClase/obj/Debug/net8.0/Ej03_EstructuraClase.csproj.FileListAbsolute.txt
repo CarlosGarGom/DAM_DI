@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\bin\Debug\net8.0\Ej03_EstructuraClase.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\bin\Debug\net8.0\Ej03_EstructuraClase.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\bin\Debug\net8.0\Ej03_EstructuraClase.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\bin\Debug\net8.0\Ej03_EstructuraClase.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\bin\Debug\net8.0\Ej03_EstructuraClase.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\refint\Ej03_EstructuraClase.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\Ej03_EstructuraClase.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej03_EstructuraClase\obj\Debug\net8.0\ref\Ej03_EstructuraClase.dll

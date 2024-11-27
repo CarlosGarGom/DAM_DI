@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\bin\Debug\net8.0\EjercicioArticulo.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\bin\Debug\net8.0\EjercicioArticulo.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\bin\Debug\net8.0\EjercicioArticulo.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\bin\Debug\net8.0\EjercicioArticulo.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\bin\Debug\net8.0\EjercicioArticulo.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\refint\EjercicioArticulo.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\EjercicioArticulo.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\EjercicioArticulo\obj\Debug\net8.0\ref\EjercicioArticulo.dll

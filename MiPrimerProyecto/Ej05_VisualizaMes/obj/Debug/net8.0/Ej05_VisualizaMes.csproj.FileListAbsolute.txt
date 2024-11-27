@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\bin\Debug\net8.0\Ej05_VisualizaMes.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\bin\Debug\net8.0\Ej05_VisualizaMes.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\bin\Debug\net8.0\Ej05_VisualizaMes.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\bin\Debug\net8.0\Ej05_VisualizaMes.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\bin\Debug\net8.0\Ej05_VisualizaMes.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\refint\Ej05_VisualizaMes.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\Ej05_VisualizaMes.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej05_VisualizaMes\obj\Debug\net8.0\ref\Ej05_VisualizaMes.dll

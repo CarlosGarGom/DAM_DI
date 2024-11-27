@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\bin\Debug\net8.0\Ej15_FicherosMatematicos.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\bin\Debug\net8.0\Ej15_FicherosMatematicos.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\bin\Debug\net8.0\Ej15_FicherosMatematicos.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\bin\Debug\net8.0\Ej15_FicherosMatematicos.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\bin\Debug\net8.0\Ej15_FicherosMatematicos.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\refint\Ej15_FicherosMatematicos.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\Ej15_FicherosMatematicos.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ej15_FicherosMatematicos\obj\Debug\net8.0\ref\Ej15_FicherosMatematicos.dll

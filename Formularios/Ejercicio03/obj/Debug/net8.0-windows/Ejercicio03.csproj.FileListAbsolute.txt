@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Formularios\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.exe
+C:\Users\admin\source\repos\Formularios\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.deps.json
+C:\Users\admin\source\repos\Formularios\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.runtimeconfig.json
+C:\Users\admin\source\repos\Formularios\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.dll
+C:\Users\admin\source\repos\Formularios\Ejercicio03\bin\Debug\net8.0-windows\Ejercicio03.pdb
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.Form1.resources
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.AssemblyInfo.cs
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.dll
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\refint\Ejercicio03.dll
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.pdb
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\Ejercicio03.genruntimeconfig.cache
+C:\Users\admin\source\repos\Formularios\Ejercicio03\obj\Debug\net8.0-windows\ref\Ejercicio03.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\bin\Debug\net8.0\Ejercicio00_InicioFecha.exe
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\bin\Debug\net8.0\Ejercicio00_InicioFecha.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\bin\Debug\net8.0\Ejercicio00_InicioFecha.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\bin\Debug\net8.0\Ejercicio00_InicioFecha.dll
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\bin\Debug\net8.0\Ejercicio00_InicioFecha.pdb
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.dll
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\refint\Ejercicio00_InicioFecha.dll
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.pdb
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\Ejercicio00_InicioFecha.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\Programa1\Ejercicio00_InicioFecha\obj\Debug\net8.0\ref\Ejercicio00_InicioFecha.dll

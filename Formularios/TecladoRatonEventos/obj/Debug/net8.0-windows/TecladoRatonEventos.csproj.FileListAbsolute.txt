@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\bin\Debug\net8.0-windows\TecladoRatonEventos.exe
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\bin\Debug\net8.0-windows\TecladoRatonEventos.deps.json
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\bin\Debug\net8.0-windows\TecladoRatonEventos.runtimeconfig.json
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\bin\Debug\net8.0-windows\TecladoRatonEventos.dll
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\bin\Debug\net8.0-windows\TecladoRatonEventos.pdb
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.Form1.resources
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.AssemblyInfo.cs
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.dll
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\refint\TecladoRatonEventos.dll
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.pdb
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\TecladoRatonEventos.genruntimeconfig.cache
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\ref\TecladoRatonEventos.dll
+C:\Users\admin\source\repos\Formularios\TecladoRatonEventos\obj\Debug\net8.0-windows\EventCaptureApp.MainForm.resources

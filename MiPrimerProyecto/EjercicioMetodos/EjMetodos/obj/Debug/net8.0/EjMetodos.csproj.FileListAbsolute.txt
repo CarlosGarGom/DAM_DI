@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\bin\Debug\net8.0\EjMetodos.exe
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\bin\Debug\net8.0\EjMetodos.deps.json
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\bin\Debug\net8.0\EjMetodos.runtimeconfig.json
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\bin\Debug\net8.0\EjMetodos.dll
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\bin\Debug\net8.0\EjMetodos.pdb
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.AssemblyInfo.cs
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.dll
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\refint\EjMetodos.dll
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.pdb
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\EjMetodos.genruntimeconfig.cache
+C:\Users\admin\source\repos\EjercicioMetodos\EjMetodos\obj\Debug\net8.0\ref\EjMetodos.dll

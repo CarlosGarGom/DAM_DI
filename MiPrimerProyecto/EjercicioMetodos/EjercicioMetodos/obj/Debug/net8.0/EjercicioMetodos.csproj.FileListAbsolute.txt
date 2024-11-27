@@ -1,0 +1,4 @@
+C:\Users\admin\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.AssemblyInfo.cs
+C:\Users\admin\source\repos\EjercicioMetodos\EjercicioMetodos\obj\Debug\net8.0\EjercicioMetodos.csproj.CoreCompileInputs.cache

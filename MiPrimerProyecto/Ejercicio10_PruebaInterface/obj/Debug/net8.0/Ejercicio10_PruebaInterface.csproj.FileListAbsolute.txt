@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\bin\Debug\net8.0\Ejercicio10_PruebaInterface.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\bin\Debug\net8.0\Ejercicio10_PruebaInterface.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\bin\Debug\net8.0\Ejercicio10_PruebaInterface.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\bin\Debug\net8.0\Ejercicio10_PruebaInterface.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\bin\Debug\net8.0\Ejercicio10_PruebaInterface.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\refint\Ejercicio10_PruebaInterface.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\Ejercicio10_PruebaInterface.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio10_PruebaInterface\obj\Debug\net8.0\ref\Ejercicio10_PruebaInterface.dll

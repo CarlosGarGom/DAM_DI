@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\bin\Debug\net8.0\Ejercicio04_BarrasVerticales.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\bin\Debug\net8.0\Ejercicio04_BarrasVerticales.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\bin\Debug\net8.0\Ejercicio04_BarrasVerticales.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\bin\Debug\net8.0\Ejercicio04_BarrasVerticales.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\bin\Debug\net8.0\Ejercicio04_BarrasVerticales.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\refint\Ejercicio04_BarrasVerticales.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\Ejercicio04_BarrasVerticales.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio04_BarrasVerticales\obj\Debug\net8.0\ref\Ejercicio04_BarrasVerticales.dll

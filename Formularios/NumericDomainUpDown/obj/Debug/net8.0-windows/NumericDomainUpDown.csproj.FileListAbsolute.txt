@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\NumericDomainUpDown.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\NumericDomainUpDown.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\NumericDomainUpDown.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\NumericDomainUpDown.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\NumericDomainUpDown.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\refint\NumericDomainUpDown.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\ref\NumericDomainUpDown.dll

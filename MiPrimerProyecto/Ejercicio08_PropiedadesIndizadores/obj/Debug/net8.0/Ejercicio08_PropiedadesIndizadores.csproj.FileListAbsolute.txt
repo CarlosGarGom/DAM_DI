@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\bin\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\bin\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\bin\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\bin\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\bin\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\refint\Ejercicio08_PropiedadesIndizadores.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\Ejercicio08_PropiedadesIndizadores.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio08_PropiedadesIndizadores\obj\Debug\net8.0\ref\Ejercicio08_PropiedadesIndizadores.dll

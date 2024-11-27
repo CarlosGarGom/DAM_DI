@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio08_PropiedadesIndizadores", "Ejercicio08_PropiedadesIndizadores\Ejercicio08_PropiedadesIndizadores.csproj", "{2BDF3FAF-A032-4516-9754-AA5111B86EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDF3FAF-A032-4516-9754-AA5111B86EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDF3FAF-A032-4516-9754-AA5111B86EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDF3FAF-A032-4516-9754-AA5111B86EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDF3FAF-A032-4516-9754-AA5111B86EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00555FA5-9CA2-4CA7-86BF-CC060B616389}
+	EndGlobalSection
+EndGlobal

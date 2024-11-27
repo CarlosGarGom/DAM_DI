@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Formularios\BotonImposible\bin\Debug\net8.0-windows\BotonImposible.exe
+C:\Users\admin\source\repos\Formularios\BotonImposible\bin\Debug\net8.0-windows\BotonImposible.deps.json
+C:\Users\admin\source\repos\Formularios\BotonImposible\bin\Debug\net8.0-windows\BotonImposible.runtimeconfig.json
+C:\Users\admin\source\repos\Formularios\BotonImposible\bin\Debug\net8.0-windows\BotonImposible.dll
+C:\Users\admin\source\repos\Formularios\BotonImposible\bin\Debug\net8.0-windows\BotonImposible.pdb
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.Form1.resources
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.AssemblyInfo.cs
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.dll
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\refint\BotonImposible.dll
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.pdb
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\BotonImposible.genruntimeconfig.cache
+C:\Users\admin\source\repos\Formularios\BotonImposible\obj\Debug\net8.0-windows\ref\BotonImposible.dll

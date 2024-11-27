@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\UpDownTimersBarColors.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\UpDownTimersBarColors.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\UpDownTimersBarColors.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\UpDownTimersBarColors.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\bin\Debug\net8.0-windows\UpDownTimersBarColors.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\NumericDomainUpDown.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\refint\UpDownTimersBarColors.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\ref\UpDownTimersBarColors.dll

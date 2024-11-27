@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\bin\Debug\net8.0\Ejercicio09_ConstructorFecha.exe
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\bin\Debug\net8.0\Ejercicio09_ConstructorFecha.deps.json
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\bin\Debug\net8.0\Ejercicio09_ConstructorFecha.runtimeconfig.json
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\bin\Debug\net8.0\Ejercicio09_ConstructorFecha.dll
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\bin\Debug\net8.0\Ejercicio09_ConstructorFecha.pdb
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.AssemblyInfo.cs
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.dll
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\refint\Ejercicio09_ConstructorFecha.dll
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.pdb
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\Ejercicio09_ConstructorFecha.genruntimeconfig.cache
+C:\Users\admin\source\repos\Ejercicio09_ConstructorFecha\Ejercicio09_ConstructorFecha\obj\Debug\net8.0\ref\Ejercicio09_ConstructorFecha.dll

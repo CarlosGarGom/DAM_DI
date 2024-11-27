@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\bin\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\bin\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\bin\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\bin\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\bin\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\refint\Ejercicio07_ArrayCocheOcasion.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\Ejercicio07_ArrayCocheOcasion.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Ejercicio07_ArrayCocheOcasion\obj\Debug\net8.0\ref\Ejercicio07_ArrayCocheOcasion.dll

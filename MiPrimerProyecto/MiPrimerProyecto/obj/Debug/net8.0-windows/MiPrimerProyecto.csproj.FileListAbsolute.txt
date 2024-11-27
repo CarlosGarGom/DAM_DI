@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\refint\MiPrimerProyecto.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\ref\MiPrimerProyecto.dll

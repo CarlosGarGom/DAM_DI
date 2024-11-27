@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio01", "Ejercicio01\Ejercicio01.csproj", "{94B32A07-F3F0-4709-87F5-4C13B2F5997D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventoTecladoRaton", "EventoTecladoRaton\EventoTecladoRaton.csproj", "{5C743808-75FD-425F-A23B-A5C5ADF37676}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio02", "Ejercicio02\Ejercicio02.csproj", "{FDC75168-B037-4358-826C-76FC61C4DD99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio03", "Ejercicio03\Ejercicio03.csproj", "{11BE58ED-9E09-46AE-8871-AFDC6CED8215}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotonImposible", "BotonImposible\BotonImposible.csproj", "{612D09AA-3117-4CB1-9B22-925C6843E283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpDownTimersBarColors", "NumericDomainUpDown\UpDownTimersBarColors.csproj", "{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox", "PictureBox\PictureBox.csproj", "{DA75D09B-B650-415A-9684-F2E26B4571DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B32A07-F3F0-4709-87F5-4C13B2F5997D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B32A07-F3F0-4709-87F5-4C13B2F5997D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B32A07-F3F0-4709-87F5-4C13B2F5997D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B32A07-F3F0-4709-87F5-4C13B2F5997D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C743808-75FD-425F-A23B-A5C5ADF37676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C743808-75FD-425F-A23B-A5C5ADF37676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C743808-75FD-425F-A23B-A5C5ADF37676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C743808-75FD-425F-A23B-A5C5ADF37676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC75168-B037-4358-826C-76FC61C4DD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC75168-B037-4358-826C-76FC61C4DD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC75168-B037-4358-826C-76FC61C4DD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC75168-B037-4358-826C-76FC61C4DD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BE58ED-9E09-46AE-8871-AFDC6CED8215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BE58ED-9E09-46AE-8871-AFDC6CED8215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BE58ED-9E09-46AE-8871-AFDC6CED8215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BE58ED-9E09-46AE-8871-AFDC6CED8215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612D09AA-3117-4CB1-9B22-925C6843E283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612D09AA-3117-4CB1-9B22-925C6843E283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612D09AA-3117-4CB1-9B22-925C6843E283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612D09AA-3117-4CB1-9B22-925C6843E283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CAF4989-3430-470E-930C-A51D7C3BD118}
+	EndGlobalSection
+EndGlobal

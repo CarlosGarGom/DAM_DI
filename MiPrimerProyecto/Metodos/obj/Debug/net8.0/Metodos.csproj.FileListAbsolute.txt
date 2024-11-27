@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\bin\Debug\net8.0\Metodos.exe
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\bin\Debug\net8.0\Metodos.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\bin\Debug\net8.0\Metodos.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\bin\Debug\net8.0\Metodos.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\bin\Debug\net8.0\Metodos.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\refint\Metodos.dll
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.pdb
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\Metodos.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\MiPrimerProyecto\Metodos\obj\Debug\net8.0\ref\Metodos.dll

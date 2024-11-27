@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Ejercicio09_ConstructorFecha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540708AF-4161-491F-8D8D-A1F466682DAE}|Ejercicio09_ConstructorFecha\\Ejercicio09_ConstructorFecha.csproj|c:\\users\\admin\\source\\repos\\ejercicio09_constructorfecha\\ejercicio09_constructorfecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540708AF-4161-491F-8D8D-A1F466682DAE}|Ejercicio09_ConstructorFecha\\Ejercicio09_ConstructorFecha.csproj|solutionrelative:ejercicio09_constructorfecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Ejercicio09_ConstructorFecha\\Ejercicio09_ConstructorFecha\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio09_ConstructorFecha\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Ejercicio09_ConstructorFecha\\Ejercicio09_ConstructorFecha\\Program.cs",
+              "RelativeToolTip": "Ejercicio09_ConstructorFecha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:08:07.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

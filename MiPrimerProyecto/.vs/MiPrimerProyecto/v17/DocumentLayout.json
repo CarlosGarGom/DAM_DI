@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B8FB29-3904-4653-8CB4-59561CB13EC1}|Ej_Delegado\\Ej_Delegado.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ej_delegado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B8FB29-3904-4653-8CB4-59561CB13EC1}|Ej_Delegado\\Ej_Delegado.csproj|solutionrelative:ej_delegado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C31E15-2687-45FB-9117-FDFF63A33D6C}|Evento\\Evento.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C31E15-2687-45FB-9117-FDFF63A33D6C}|Evento\\Evento.csproj|solutionrelative:evento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B4A724-628D-4A20-95B8-BD1BA39520A9}|Ej15_FicherosMatematicos\\Ej15_FicherosMatematicos.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ej15_ficherosmatematicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B4A724-628D-4A20-95B8-BD1BA39520A9}|Ej15_FicherosMatematicos\\Ej15_FicherosMatematicos.csproj|solutionrelative:ej15_ficherosmatematicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A1ACDA-05EB-4743-A072-E008BE4DA576}|Ejercicio 12_Campamento\\Ejercicio 12_Campamento.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicio 12_campamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A1ACDA-05EB-4743-A072-E008BE4DA576}|Ejercicio 12_Campamento\\Ejercicio 12_Campamento.csproj|solutionrelative:ejercicio 12_campamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60A6083-0667-40EC-917B-941190ED91DF}|EjercicioArticulo\\EjercicioArticulo.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicioarticulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60A6083-0667-40EC-917B-941190ED91DF}|EjercicioArticulo\\EjercicioArticulo.csproj|solutionrelative:ejercicioarticulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B103348-5452-4D71-AF16-7ADD4C402383}|Ejercicio07_ArrayCocheOcasion\\Ejercicio07_ArrayCocheOcasion.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicio07_arraycocheocasion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B103348-5452-4D71-AF16-7ADD4C402383}|Ejercicio07_ArrayCocheOcasion\\Ejercicio07_ArrayCocheOcasion.csproj|solutionrelative:ejercicio07_arraycocheocasion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4DC167-0C64-44BF-A2BD-A030CCC8B51D}|Ejercicio08_PropiedadesIndizadores\\Ejercicio08_PropiedadesIndizadores.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicio08_propiedadesindizadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4DC167-0C64-44BF-A2BD-A030CCC8B51D}|Ejercicio08_PropiedadesIndizadores\\Ejercicio08_PropiedadesIndizadores.csproj|solutionrelative:ejercicio08_propiedadesindizadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297B3AE7-26F3-4C9C-91E8-454BF4542E29}|Ejercicio10_PruebaInterface\\Ejercicio10_PruebaInterface.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicio10_pruebainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297B3AE7-26F3-4C9C-91E8-454BF4542E29}|Ejercicio10_PruebaInterface\\Ejercicio10_PruebaInterface.csproj|solutionrelative:ejercicio10_pruebainterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F3DB42-7862-4D9A-A99E-FCFC7BFE09FB}|Ejercicio09_ConstructorFecha\\Ejercicio09_ConstructorFecha.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicio09_constructorfecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F3DB42-7862-4D9A-A99E-FCFC7BFE09FB}|Ejercicio09_ConstructorFecha\\Ejercicio09_ConstructorFecha.csproj|solutionrelative:ejercicio09_constructorfecha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2279E5BD-94FC-4751-84B4-BFBA0D30F3E9}|Ej05_VisualizaMes\\Ej05_VisualizaMes.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ej05_visualizames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2279E5BD-94FC-4751-84B4-BFBA0D30F3E9}|Ej05_VisualizaMes\\Ej05_VisualizaMes.csproj|solutionrelative:ej05_visualizames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8702387-02DC-495B-904E-D4522D38C831}|Ej03_EstructuraClase\\Ej03_EstructuraClase.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ej03_estructuraclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8702387-02DC-495B-904E-D4522D38C831}|Ej03_EstructuraClase\\Ej03_EstructuraClase.csproj|solutionrelative:ej03_estructuraclase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AE90A0-1489-4A50-9078-24915F02BBBB}|Metodos\\Metodos.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AE90A0-1489-4A50-9078-24915F02BBBB}|Metodos\\Metodos.csproj|solutionrelative:metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715E38C3-8571-4423-8D21-5B17AAEBEC2C}|Diccionario\\Diccionario.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715E38C3-8571-4423-8D21-5B17AAEBEC2C}|Diccionario\\Diccionario.csproj|solutionrelative:diccionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7246D081-C49C-4876-AE15-BAEE9A9DE579}|Ejercicio04_BarrasVerticales\\Ejercicio04_BarrasVerticales.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\miprimerproyecto\\ejercicio04_barrasverticales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7246D081-C49C-4876-AE15-BAEE9A9DE579}|Ejercicio04_BarrasVerticales\\Ejercicio04_BarrasVerticales.csproj|solutionrelative:ejercicio04_barrasverticales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADC0AEC-E3F4-4F62-9757-E04FDA83A7E3}|MiPrimerProyecto\\MiPrimerProyecto.csproj|C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\miprimerproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8ADC0AEC-E3F4-4F62-9757-E04FDA83A7E3}|MiPrimerProyecto\\MiPrimerProyecto.csproj|solutionrelative:miprimerproyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Evento\\Program.cs",
+              "RelativeDocumentMoniker": "Evento\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Evento\\Program.cs",
+              "RelativeToolTip": "Evento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:45:12.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej_Delegado\\Program.cs",
+              "RelativeDocumentMoniker": "Ej_Delegado\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej_Delegado\\Program.cs",
+              "RelativeToolTip": "Ej_Delegado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:13:29.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej15_FicherosMatematicos\\Program.cs",
+              "RelativeDocumentMoniker": "Ej15_FicherosMatematicos\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej15_FicherosMatematicos\\Program.cs",
+              "RelativeToolTip": "Ej15_FicherosMatematicos\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:47:28.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio 12_Campamento\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 12_Campamento\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio 12_Campamento\\Program.cs",
+              "RelativeToolTip": "Ejercicio 12_Campamento\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:46:04.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\EjercicioArticulo\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioArticulo\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\EjercicioArticulo\\Program.cs",
+              "RelativeToolTip": "EjercicioArticulo\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:12:18.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio08_PropiedadesIndizadores\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio08_PropiedadesIndizadores\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio08_PropiedadesIndizadores\\Program.cs",
+              "RelativeToolTip": "Ejercicio08_PropiedadesIndizadores\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:36:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio07_ArrayCocheOcasion\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio07_ArrayCocheOcasion\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio07_ArrayCocheOcasion\\Program.cs",
+              "RelativeToolTip": "Ejercicio07_ArrayCocheOcasion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:40:10.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio10_PruebaInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio10_PruebaInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio10_PruebaInterface\\Program.cs",
+              "RelativeToolTip": "Ejercicio10_PruebaInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:32:38.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio09_ConstructorFecha\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio09_ConstructorFecha\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio09_ConstructorFecha\\Program.cs",
+              "RelativeToolTip": "Ejercicio09_ConstructorFecha\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwDcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:30:21.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej05_VisualizaMes\\Program.cs",
+              "RelativeDocumentMoniker": "Ej05_VisualizaMes\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej05_VisualizaMes\\Program.cs",
+              "RelativeToolTip": "Ej05_VisualizaMes\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:00:04.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej03_EstructuraClase\\Program.cs",
+              "RelativeDocumentMoniker": "Ej03_EstructuraClase\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ej03_EstructuraClase\\Program.cs",
+              "RelativeToolTip": "Ej03_EstructuraClase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:50:26.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Metodos\\Program.cs",
+              "RelativeDocumentMoniker": "Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Metodos\\Program.cs",
+              "RelativeToolTip": "Metodos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:54:28.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio04_BarrasVerticales\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio04_BarrasVerticales\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Ejercicio04_BarrasVerticales\\Program.cs",
+              "RelativeToolTip": "Ejercicio04_BarrasVerticales\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:50:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\MiPrimerProyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "MiPrimerProyecto\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\MiPrimerProyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiPrimerProyecto\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:30:40.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Diccionario\\Program.cs",
+              "RelativeDocumentMoniker": "Diccionario\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\MiPrimerProyecto\\Diccionario\\Program.cs",
+              "RelativeToolTip": "Diccionario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:10:10.215Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
