@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BotonImposible")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0208e7045e0269a55c0135f245716de9ce4455a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BotonImposible")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BotonImposible")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

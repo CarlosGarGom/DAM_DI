@@ -97,5 +97,14 @@ namespace NumericDomainUpDown
             imagenAleatoria();
         }
 
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Abrir archivo");
+        }
     }
 }

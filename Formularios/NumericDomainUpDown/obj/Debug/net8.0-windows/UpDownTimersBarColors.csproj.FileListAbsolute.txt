@@ -14,3 +14,4 @@ C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\D
 C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.pdb
 C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.genruntimeconfig.cache
 C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\ref\UpDownTimersBarColors.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Formularios\NumericDomainUpDown\obj\Debug\net8.0-windows\UpDownTimersBarColors.sourcelink.json

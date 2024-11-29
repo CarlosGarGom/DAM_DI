@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio03", "Ejercicio03\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotonImposible", "BotonImposible\BotonImposible.csproj", "{612D09AA-3117-4CB1-9B22-925C6843E283}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpDownTimersBarColors", "NumericDomainUpDown\UpDownTimersBarColors.csproj", "{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpDownTimersBarColors", "NumericDomainUpDown\UpDownTimersBarColors.csproj", "{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox", "PictureBox\PictureBox.csproj", "{DA75D09B-B650-415A-9684-F2E26B4571DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PictureBox", "PictureBox\PictureBox.csproj", "{DA75D09B-B650-415A-9684-F2E26B4571DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio04_toolstripConBotonesImagenes", "Ejercicio04_toolstripConBotonesImagenes\Ejercicio04_toolstripConBotonesImagenes.csproj", "{EA4B7047-CF62-4035-B82C-A6755BECF03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariosFormularios", "VariosFormularios\VariosFormularios.csproj", "{F3FB090E-55E6-440D-97BE-16520B6B3CA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA75D09B-B650-415A-9684-F2E26B4571DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4B7047-CF62-4035-B82C-A6755BECF03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4B7047-CF62-4035-B82C-A6755BECF03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4B7047-CF62-4035-B82C-A6755BECF03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4B7047-CF62-4035-B82C-A6755BECF03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FB090E-55E6-440D-97BE-16520B6B3CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FB090E-55E6-440D-97BE-16520B6B3CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FB090E-55E6-440D-97BE-16520B6B3CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FB090E-55E6-440D-97BE-16520B6B3CA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|solutionrelative:numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\NumericDomainUpDown.csproj|solutionrelative:numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\variosformularios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB090E-55E6-440D-97BE-16520B6B3CA2}|VariosFormularios\\VariosFormularios.csproj|solutionrelative:variosformularios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B7047-CF62-4035-B82C-A6755BECF03F}|Ejercicio04_toolstripConBotonesImagenes\\Ejercicio04_toolstripConBotonesImagenes.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\ejercicio04_toolstripconbotonesimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA4B7047-CF62-4035-B82C-A6755BECF03F}|Ejercicio04_toolstripConBotonesImagenes\\Ejercicio04_toolstripConBotonesImagenes.csproj|solutionrelative:ejercicio04_toolstripconbotonesimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B7047-CF62-4035-B82C-A6755BECF03F}|Ejercicio04_toolstripConBotonesImagenes\\Ejercicio04_toolstripConBotonesImagenes.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\ejercicio04_toolstripconbotonesimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4B7047-CF62-4035-B82C-A6755BECF03F}|Ejercicio04_toolstripConBotonesImagenes\\Ejercicio04_toolstripConBotonesImagenes.csproj|solutionrelative:ejercicio04_toolstripconbotonesimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B7047-CF62-4035-B82C-A6755BECF03F}|Ejercicio04_toolstripConBotonesImagenes\\Ejercicio04_toolstripConBotonesImagenes.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\ejercicio04_toolstripconbotonesimagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4B7047-CF62-4035-B82C-A6755BECF03F}|Ejercicio04_toolstripConBotonesImagenes\\Ejercicio04_toolstripConBotonesImagenes.csproj|solutionrelative:ejercicio04_toolstripconbotonesimagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\UpDownTimersBarColors.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\UpDownTimersBarColors.csproj|solutionrelative:numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\UpDownTimersBarColors.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\formularios\\numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07E16BB-F65B-49AB-8968-26FB2A7CFD90}|NumericDomainUpDown\\UpDownTimersBarColors.csproj|solutionrelative:numericdomainupdown\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,12 +65,135 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form2.Designer.cs",
+              "RelativeToolTip": "VariosFormularios\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:39:12.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form1.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form1.cs",
+              "RelativeToolTip": "VariosFormularios\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:08:08.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form2.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form2.cs",
+              "RelativeToolTip": "VariosFormularios\\Form2.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:30:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form2.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Form2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VariosFormularios\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:29:40.993Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form1.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VariosFormularios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:23:22.944Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Form1.Designer.cs",
+              "RelativeToolTip": "VariosFormularios\\Form1.Designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAD4vysAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:21:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Program.cs",
+              "RelativeDocumentMoniker": "VariosFormularios\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\VariosFormularios\\Program.cs",
+              "RelativeToolTip": "VariosFormularios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:21:48.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\Ejercicio04_toolstripConBotonesImagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio04_toolstripConBotonesImagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\Ejercicio04_toolstripConBotonesImagenes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio04_toolstripConBotonesImagenes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:57:59.457Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\Ejercicio04_toolstripConBotonesImagenes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio04_toolstripConBotonesImagenes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\Ejercicio04_toolstripConBotonesImagenes\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio04_toolstripConBotonesImagenes\\Form1.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAWwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:56:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\Ejercicio04_toolstripConBotonesImagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio04_toolstripConBotonesImagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\Ejercicio04_toolstripConBotonesImagenes\\Form1.cs",
+              "RelativeToolTip": "Ejercicio04_toolstripConBotonesImagenes\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:44:50.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs",
               "RelativeDocumentMoniker": "NumericDomainUpDown\\Form1.cs",
@@ -42,13 +205,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs",
               "RelativeDocumentMoniker": "NumericDomainUpDown\\Form1.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Formularios\\NumericDomainUpDown\\Form1.cs",
               "RelativeToolTip": "NumericDomainUpDown\\Form1.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAzwF8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAApwGoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T10:48:21.22Z",
               "EditorCaption": ""
