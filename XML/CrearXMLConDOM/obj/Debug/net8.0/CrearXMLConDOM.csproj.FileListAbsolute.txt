@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\bin\Debug\net8.0\CrearXMLConDOM.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\bin\Debug\net8.0\CrearXMLConDOM.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\bin\Debug\net8.0\CrearXMLConDOM.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\bin\Debug\net8.0\CrearXMLConDOM.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\bin\Debug\net8.0\CrearXMLConDOM.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\refint\CrearXMLConDOM.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\CrearXMLConDOM.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConDOM\obj\Debug\net8.0\ref\CrearXMLConDOM.dll

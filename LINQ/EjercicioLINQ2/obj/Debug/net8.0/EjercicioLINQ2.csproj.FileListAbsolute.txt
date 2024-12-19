@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\bin\Debug\net8.0\EjercicioLINQ2.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\bin\Debug\net8.0\EjercicioLINQ2.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\bin\Debug\net8.0\EjercicioLINQ2.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\bin\Debug\net8.0\EjercicioLINQ2.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\bin\Debug\net8.0\EjercicioLINQ2.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\refint\EjercicioLINQ2.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\EjercicioLINQ2.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LINQ\EjercicioLINQ2\obj\Debug\net8.0\ref\EjercicioLINQ2.dll

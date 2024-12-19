@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E449E78-606A-4700-91DB-C800BFE6634E}|EjercicioLINQ2\\EjercicioLINQ2.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\linq\\ejerciciolinq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E449E78-606A-4700-91DB-C800BFE6634E}|EjercicioLINQ2\\EjercicioLINQ2.csproj|solutionrelative:ejerciciolinq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8E6E9C-F4E1-47AA-AA38-7D434FC878D8}|ClientesFacturas\\ClientesFacturas.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\linq\\clientesfacturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8E6E9C-F4E1-47AA-AA38-7D434FC878D8}|ClientesFacturas\\ClientesFacturas.csproj|solutionrelative:clientesfacturas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\LINQ\\EjercicioLINQ2\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioLINQ2\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\LINQ\\EjercicioLINQ2\\Program.cs",
+              "RelativeToolTip": "EjercicioLINQ2\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwIYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:10:27.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\LINQ\\ClientesFacturas\\Program.cs",
+              "RelativeDocumentMoniker": "ClientesFacturas\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\LINQ\\ClientesFacturas\\Program.cs",
+              "RelativeToolTip": "ClientesFacturas\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:22:42.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\bin\Debug\net8.0\lambdaDNI.exe
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\bin\Debug\net8.0\lambdaDNI.deps.json
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\bin\Debug\net8.0\lambdaDNI.runtimeconfig.json
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\bin\Debug\net8.0\lambdaDNI.dll
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\bin\Debug\net8.0\lambdaDNI.pdb
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.AssemblyInfo.cs
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.dll
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\refint\lambdaDNI.dll
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.pdb
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\lambdaDNI.genruntimeconfig.cache
+C:\Users\admin\source\repos\Ejercicio1\lambdaDNI\obj\Debug\net8.0\ref\lambdaDNI.dll

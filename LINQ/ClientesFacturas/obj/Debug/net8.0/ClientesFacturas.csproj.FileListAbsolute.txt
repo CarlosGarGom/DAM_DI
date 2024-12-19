@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.AssemblyInfo.cs
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\bin\Debug\net8.0\ClientesFacturas.exe
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\bin\Debug\net8.0\ClientesFacturas.deps.json
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\bin\Debug\net8.0\ClientesFacturas.runtimeconfig.json
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\bin\Debug\net8.0\ClientesFacturas.dll
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\bin\Debug\net8.0\ClientesFacturas.pdb
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.dll
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\refint\ClientesFacturas.dll
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.pdb
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ClientesFacturas.genruntimeconfig.cache
+C:\Users\admin\source\repos\Ejercicio1\ClientesFacturas\obj\Debug\net8.0\ref\ClientesFacturas.dll

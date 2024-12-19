@@ -1,0 +1,4 @@
+223,06/03/02 23:10:22,Palencia,Valladolid,47 
+2912,06/03/03 22:12:25,Madrid,Valladolid,230 
+239,06/02/09 10:22:09,Salamanca,Valladolid,110 
+223,06/01/10 11:35:34,Valladolid,Palencia,47

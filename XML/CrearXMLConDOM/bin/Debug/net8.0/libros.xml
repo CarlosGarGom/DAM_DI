@@ -1,0 +1,9 @@
+<libros>
+  <literatura>
+    <libro1>22,50</libro1>
+    <libro2>21,00</libro2>
+  </literatura>
+  <ciencia>
+    <libro4>53,00</libro4>
+  </ciencia>
+</libros>

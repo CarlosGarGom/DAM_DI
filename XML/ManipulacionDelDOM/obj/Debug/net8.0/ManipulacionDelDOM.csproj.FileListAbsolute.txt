@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\bin\Debug\net8.0\ManipulacionDelDOM.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\bin\Debug\net8.0\ManipulacionDelDOM.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\bin\Debug\net8.0\ManipulacionDelDOM.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\bin\Debug\net8.0\ManipulacionDelDOM.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\bin\Debug\net8.0\ManipulacionDelDOM.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\refint\ManipulacionDelDOM.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ManipulacionDelDOM.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\ManipulacionDelDOM\obj\Debug\net8.0\ref\ManipulacionDelDOM.dll

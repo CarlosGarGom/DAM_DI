@@ -1,0 +1,26 @@
+<movimientos>
+  <movimiento camion="223">
+    <fechayhora>06/03/02 23:10:22</fechayhora>
+    <origen>Palencia</origen>
+    <destino>Valladolid</destino>
+    <km>47</km>
+  </movimiento>
+  <movimiento camion="223">
+    <fechayhora>06/01/10 11:35:34</fechayhora>
+    <origen>Valladolid</origen>
+    <destino>Palencia</destino>
+    <km>47</km>
+  </movimiento>
+  <movimiento camion="2912">
+    <fechayhora>06/03/03 22:12:25</fechayhora>
+    <origen>Madrid</origen>
+    <destino>Valladolid</destino>
+    <km>230</km>
+  </movimiento>
+  <movimiento camion="239">
+    <fechayhora>06/02/09 10:22:09</fechayhora>
+    <origen>Salamanca</origen>
+    <destino>Valladolid</destino>
+    <km>110</km>
+  </movimiento>
+</movimientos>

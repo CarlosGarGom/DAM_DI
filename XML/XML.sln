@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ficheroToXML", "ficheroToXML\ficheroToXML.csproj", "{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrearXMLConDOM", "CrearXMLConDOM\CrearXMLConDOM.csproj", "{856B5094-AC90-4EBF-A07B-61B90ACBACE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacionDelDOM", "ManipulacionDelDOM\ManipulacionDelDOM.csproj", "{382E2080-ED43-46D1-AD37-57C2E4979808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856B5094-AC90-4EBF-A07B-61B90ACBACE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856B5094-AC90-4EBF-A07B-61B90ACBACE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856B5094-AC90-4EBF-A07B-61B90ACBACE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856B5094-AC90-4EBF-A07B-61B90ACBACE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382E2080-ED43-46D1-AD37-57C2E4979808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382E2080-ED43-46D1-AD37-57C2E4979808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382E2080-ED43-46D1-AD37-57C2E4979808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382E2080-ED43-46D1-AD37-57C2E4979808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {147AA769-0DB2-419C-8273-9660C11D6F17}
+	EndGlobalSection
+EndGlobal
