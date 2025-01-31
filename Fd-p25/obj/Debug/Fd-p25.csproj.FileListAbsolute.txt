@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\bin\Debug\Fd-p25.exe.config
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\bin\Debug\Fd-p25.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\bin\Debug\Fd-p25.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd-p25.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd_p25.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd_p25.Properties.Resources.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd-p25.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd-p25.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd-p25.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Fd-p25\obj\Debug\Fd-p25.pdb

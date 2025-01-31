@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManipulacionDelDOM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f84ee50da1fb185ee66b06ae5f28c128e6273a09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6476b0916cfa875c89328e88147d93fe197c84d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManipulacionDelDOM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManipulacionDelDOM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

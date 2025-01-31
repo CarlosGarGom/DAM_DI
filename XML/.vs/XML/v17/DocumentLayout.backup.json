@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E93DE9AC-0E5C-41FC-9989-E62CE4961050}|CrearXMLConLINQXML\\CrearXMLConLINQXML.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\crearxmlconlinqxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93DE9AC-0E5C-41FC-9989-E62CE4961050}|CrearXMLConLINQXML\\CrearXMLConLINQXML.csproj|solutionrelative:crearxmlconlinqxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\leerxml_precipitaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|solutionrelative:leerxml_precipitaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856B5094-AC90-4EBF-A07B-61B90ACBACE2}|CrearXMLConDOM\\CrearXMLConDOM.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\crearxmlcondom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856B5094-AC90-4EBF-A07B-61B90ACBACE2}|CrearXMLConDOM\\CrearXMLConDOM.csproj|solutionrelative:crearxmlcondom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}|PrediccionTiempo\\PrediccionTiempo.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\predicciontiempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}|PrediccionTiempo\\PrediccionTiempo.csproj|solutionrelative:predicciontiempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\leerxml_precipitaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|solutionrelative:leerxml_precipitaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\leerxml_precipitaciones\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|solutionrelative:leerxml_precipitaciones\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}|PrediccionTiempo\\PrediccionTiempo.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\predicciontiempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}|PrediccionTiempo\\PrediccionTiempo.csproj|solutionrelative:predicciontiempo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}|ficheroToXML\\ficheroToXML.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\ficherotoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD1BB73-6F76-4EFD-BD1F-EBEEEF60F3A4}|ficheroToXML\\ficheroToXML.csproj|solutionrelative:ficherotoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\leerxml_precipitaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}|LeerXML_Precipitaciones\\LeerXML_Precipitaciones.csproj|solutionrelative:leerxml_precipitaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382E2080-ED43-46D1-AD37-57C2E4979808}|ManipulacionDelDOM\\ManipulacionDelDOM.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\xml\\manipulaciondeldom\\manipulaciondeldom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{382E2080-ED43-46D1-AD37-57C2E4979808}|ManipulacionDelDOM\\ManipulacionDelDOM.csproj|solutionrelative:manipulaciondeldom\\manipulaciondeldom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Form1.cs",
+              "RelativeDocumentMoniker": "LeerXML_Precipitaciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Form1.cs",
+              "RelativeToolTip": "LeerXML_Precipitaciones\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:17:05.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\CrearXMLConDOM\\Program.cs",
+              "RelativeDocumentMoniker": "CrearXMLConDOM\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\CrearXMLConDOM\\Program.cs",
+              "RelativeToolTip": "CrearXMLConDOM\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:21:47.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\CrearXMLConLINQXML\\Program.cs",
+              "RelativeDocumentMoniker": "CrearXMLConLINQXML\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\CrearXMLConLINQXML\\Program.cs",
+              "RelativeToolTip": "CrearXMLConLINQXML\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:08:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\PrediccionTiempo\\Form1.cs",
+              "RelativeDocumentMoniker": "PrediccionTiempo\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\PrediccionTiempo\\Form1.cs",
+              "RelativeToolTip": "PrediccionTiempo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:45:26.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\PrediccionTiempo\\Program.cs",
+              "RelativeDocumentMoniker": "PrediccionTiempo\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\PrediccionTiempo\\Program.cs",
+              "RelativeToolTip": "PrediccionTiempo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:44:29.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LeerXML_Precipitaciones\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Form1.Designer.cs",
+              "RelativeToolTip": "LeerXML_Precipitaciones\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:17:00.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Program.cs",
+              "RelativeDocumentMoniker": "LeerXML_Precipitaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Program.cs",
+              "RelativeToolTip": "LeerXML_Precipitaciones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:16:34.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Form1.cs",
+              "RelativeDocumentMoniker": "LeerXML_Precipitaciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\LeerXML_Precipitaciones\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LeerXML_Precipitaciones\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:01:18.685Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\ficheroToXML\\Program.cs",
+              "RelativeDocumentMoniker": "ficheroToXML\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\ficheroToXML\\Program.cs",
+              "RelativeToolTip": "ficheroToXML\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:00:48.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManipulacionDelDOM.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\ManipulacionDelDOM\\ManipulacionDelDOM.csproj",
+              "RelativeDocumentMoniker": "ManipulacionDelDOM\\ManipulacionDelDOM.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\XML\\ManipulacionDelDOM\\ManipulacionDelDOM.csproj",
+              "RelativeToolTip": "ManipulacionDelDOM\\ManipulacionDelDOM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T10:48:33.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

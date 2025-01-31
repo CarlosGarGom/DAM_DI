@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\bin\Debug\GD.exe.config
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\bin\Debug\GD.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\bin\Debug\GD.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.Properties.Resources.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\GD\obj\Debug\GD.pdb

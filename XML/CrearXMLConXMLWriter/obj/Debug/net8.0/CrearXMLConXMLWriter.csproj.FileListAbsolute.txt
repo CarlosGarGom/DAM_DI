@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\bin\Debug\net8.0\CrearXMLConXMLWriter.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\bin\Debug\net8.0\CrearXMLConXMLWriter.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\bin\Debug\net8.0\CrearXMLConXMLWriter.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\bin\Debug\net8.0\CrearXMLConXMLWriter.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\bin\Debug\net8.0\CrearXMLConXMLWriter.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\refint\CrearXMLConXMLWriter.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\CrearXMLConXMLWriter.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConXMLWriter\obj\Debug\net8.0\ref\CrearXMLConXMLWriter.dll

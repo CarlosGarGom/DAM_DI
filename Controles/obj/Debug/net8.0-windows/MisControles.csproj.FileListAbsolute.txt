@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\bin\Debug\net8.0-windows\MisControles.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\bin\Debug\net8.0-windows\MisControles.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\bin\Debug\net8.0-windows\MisControles.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\refint\MisControles.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\ref\MisControles.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\Controles.MiReloj.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.LoginControl.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Controles\obj\Debug\net8.0-windows\MisControles.MiAlarma2.resources

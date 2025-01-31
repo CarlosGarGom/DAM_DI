@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<colegio>
+  <curso>
+    <codigo>2DAM</codigo>
+    <alumno>
+      <nombre>Abel</nombre>
+      <edad>20</edad>
+    </alumno>
+    <alumno>
+      <nombre>Carlos</nombre>
+      <edad>22</edad>
+    </alumno>
+    <alumno>
+      <nombre>Nacho</nombre>
+      <edad>18</edad>
+    </alumno>
+    <alumno>
+      <nombre>Mario</nombre>
+      <edad>25</edad>
+    </alumno>
+  </curso>
+  <curso>
+    <codigo>2DAW</codigo>
+    <alumno>
+      <nombre>Yaiza</nombre>
+      <edad>29</edad>
+    </alumno>
+    <alumno>
+      <nombre>Angel</nombre>
+      <edad>28</edad>
+    </alumno>
+    <alumno>
+      <nombre>Claudia</nombre>
+      <edad>21</edad>
+    </alumno>
+  </curso>
+</colegio>

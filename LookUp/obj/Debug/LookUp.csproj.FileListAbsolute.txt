@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.AñadirOrdenes.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.LookUpClientes.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.Properties.Resources.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\bin\Debug\LookUp.exe.config
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\bin\Debug\LookUp.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\bin\Debug\LookUp.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\LookUp\obj\Debug\LookUp.LookUpEmpleados.resources

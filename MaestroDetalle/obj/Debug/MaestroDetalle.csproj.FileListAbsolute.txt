@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\bin\Debug\MaestroDetalle.exe.config
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\bin\Debug\MaestroDetalle.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\bin\Debug\MaestroDetalle.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.Properties.Resources.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\MaestroDetalle\obj\Debug\MaestroDetalle.pdb

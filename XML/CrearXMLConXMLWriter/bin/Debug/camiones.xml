@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCamión xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/2001/XMLSchema">
+  <Camión>
+    <movimientos>
+      <Movimiento>
+        <FechaYHora>06/03/02 23:10:22</FechaYHora>
+        <LugarDeOrigen>Palencia</LugarDeOrigen>
+        <LugarDeDestino>Valladolid</LugarDeDestino>
+        <KmRealizados>47</KmRealizados>
+      </Movimiento>
+      <Movimiento>
+        <FechaYHora>06/01/10 11:35:34</FechaYHora>
+        <LugarDeOrigen>Valladolid</LugarDeOrigen>
+        <LugarDeDestino>Palencia</LugarDeDestino>
+        <KmRealizados>47</KmRealizados>
+      </Movimiento>
+    </movimientos>
+    <CodigoDeCamión>223</CodigoDeCamión>
+  </Camión>
+  <Camión>
+    <movimientos>
+      <Movimiento>
+        <FechaYHora>06/03/03 22:12:25</FechaYHora>
+        <LugarDeOrigen>Madrid</LugarDeOrigen>
+        <LugarDeDestino>Valladolid</LugarDeDestino>
+        <KmRealizados>230</KmRealizados>
+      </Movimiento>
+    </movimientos>
+    <CodigoDeCamión>2912</CodigoDeCamión>
+  </Camión>
+  <Camión>
+    <movimientos>
+      <Movimiento>
+        <FechaYHora>06/02/09 10:22:09</FechaYHora>
+        <LugarDeOrigen>Salamanca</LugarDeOrigen>
+        <LugarDeDestino>Valladolid</LugarDeDestino>
+        <KmRealizados>110</KmRealizados>
+      </Movimiento>
+    </movimientos>
+    <CodigoDeCamión>239</CodigoDeCamión>
+  </Camión>
+</ArrayOfCamión>

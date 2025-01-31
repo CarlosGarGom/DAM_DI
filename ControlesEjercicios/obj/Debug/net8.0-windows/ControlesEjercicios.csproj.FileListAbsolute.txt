@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\bin\Debug\net8.0-windows\ControlesEjercicios.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\bin\Debug\net8.0-windows\ControlesEjercicios.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\bin\Debug\net8.0-windows\ControlesEjercicios.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.LoginControl.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\refint\ControlesEjercicios.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ControlesEjercicios.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\ControlesEjercicios\obj\Debug\net8.0-windows\ref\ControlesEjercicios.dll

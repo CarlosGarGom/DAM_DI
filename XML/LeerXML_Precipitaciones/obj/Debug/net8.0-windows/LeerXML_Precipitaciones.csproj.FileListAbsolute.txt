@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.Form1.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\bin\Debug\net8.0-windows\LeerXML_Precipitaciones.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\bin\Debug\net8.0-windows\LeerXML_Precipitaciones.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\bin\Debug\net8.0-windows\LeerXML_Precipitaciones.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\bin\Debug\net8.0-windows\LeerXML_Precipitaciones.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\bin\Debug\net8.0-windows\LeerXML_Precipitaciones.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\refint\LeerXML_Precipitaciones.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\LeerXML_Precipitaciones.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\LeerXML_Precipitaciones\obj\Debug\net8.0-windows\ref\LeerXML_Precipitaciones.dll

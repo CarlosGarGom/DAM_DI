@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\bin\Debug\CRUD.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\bin\Debug\CRUD.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.CRUDCliente.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.DetalleCliente.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\CRUD\obj\Debug\CRUD.pdb

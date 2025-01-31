@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CrearXMLConLINQXML/1.0.0": {
+        "runtime": {
+          "CrearXMLConLINQXML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrearXMLConLINQXML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

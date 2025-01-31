@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\bin\Debug\Datos2.exe.config
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\bin\Debug\Datos2.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\bin\Debug\Datos2.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\obj\Debug\Datos2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\obj\Debug\Datos2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\obj\Debug\Datos2.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\Datos2\obj\Debug\Datos2.pdb

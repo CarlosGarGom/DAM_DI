@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.AssemblyInfo.cs
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.sourcelink.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\bin\Debug\net8.0\CrearXMLConLINQXML.exe
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\bin\Debug\net8.0\CrearXMLConLINQXML.deps.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\bin\Debug\net8.0\CrearXMLConLINQXML.runtimeconfig.json
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\bin\Debug\net8.0\CrearXMLConLINQXML.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\bin\Debug\net8.0\CrearXMLConLINQXML.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\refint\CrearXMLConLINQXML.dll
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.pdb
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\CrearXMLConLINQXML.genruntimeconfig.cache
+C:\Users\admin\Desktop\CarlosGarcia\DAM_DI\XML\CrearXMLConLINQXML\obj\Debug\net8.0\ref\CrearXMLConLINQXML.dll

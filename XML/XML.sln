@@ -7,7 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ficheroToXML", "ficheroToXM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrearXMLConDOM", "CrearXMLConDOM\CrearXMLConDOM.csproj", "{856B5094-AC90-4EBF-A07B-61B90ACBACE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulacionDelDOM", "ManipulacionDelDOM\ManipulacionDelDOM.csproj", "{382E2080-ED43-46D1-AD37-57C2E4979808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManipulacionDelDOM", "ManipulacionDelDOM\ManipulacionDelDOM.csproj", "{382E2080-ED43-46D1-AD37-57C2E4979808}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrearXMLConXMLWriter", "CrearXMLConXMLWriter\CrearXMLConXMLWriter.csproj", "{F3B18CCA-0B58-4A2F-9840-E82CFBB24A70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeerXML_Precipitaciones", "LeerXML_Precipitaciones\LeerXML_Precipitaciones.csproj", "{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrediccionTiempo", "PrediccionTiempo\PrediccionTiempo.csproj", "{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrearXMLConLINQXML", "CrearXMLConLINQXML\CrearXMLConLINQXML.csproj", "{E93DE9AC-0E5C-41FC-9989-E62CE4961050}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{382E2080-ED43-46D1-AD37-57C2E4979808}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{382E2080-ED43-46D1-AD37-57C2E4979808}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{382E2080-ED43-46D1-AD37-57C2E4979808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B18CCA-0B58-4A2F-9840-E82CFBB24A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B18CCA-0B58-4A2F-9840-E82CFBB24A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B18CCA-0B58-4A2F-9840-E82CFBB24A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B18CCA-0B58-4A2F-9840-E82CFBB24A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AD4A2D-7E61-4AF3-83CD-011948A51EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE6551C-C4B8-41AA-B34B-DB64A0B01F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93DE9AC-0E5C-41FC-9989-E62CE4961050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93DE9AC-0E5C-41FC-9989-E62CE4961050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93DE9AC-0E5C-41FC-9989-E62CE4961050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93DE9AC-0E5C-41FC-9989-E62CE4961050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

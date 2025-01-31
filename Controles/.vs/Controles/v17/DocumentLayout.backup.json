@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8F0D35-DD4E-4AA1-B724-9FD0AEFD362A}|..\\PruebaControlesEjercicio\\PruebaControlesEjercicio.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\pruebacontrolesejercicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568E09CB-29A4-4722-87D2-C794F1E275ED}|..\\ControlesEjercicios\\ControlesEjercicios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controlesejercicios\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568E09CB-29A4-4722-87D2-C794F1E275ED}|..\\ControlesEjercicios\\ControlesEjercicios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controlesejercicios\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controles\\miscontroles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:miscontroles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B67C1C-FE3C-4F13-A16C-8388A2B603C0}|..\\PruebaControlesForm\\PruebaControlesForm.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\pruebacontrolesform\\pruebacontrolesform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B67C1C-FE3C-4F13-A16C-8388A2B603C0}|..\\PruebaControlesForm\\PruebaControlesForm.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\pruebacontrolesform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controles\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568E09CB-29A4-4722-87D2-C794F1E275ED}|..\\ControlesEjercicios\\ControlesEjercicios.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controlesejercicios\\controlesejercicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controles\\logincontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:logincontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controles\\mireloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:mireloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controles\\mialarma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:mialarma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\mialarma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:mialarma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|Controles.csproj|C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\mireloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|Controles.csproj|solutionrelative:mireloj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|c:\\users\\admin\\desktop\\carlosgarcia\\dam_di\\controles\\mireloj.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF2220B-0D75-4248-B2BC-2979C218815F}|MisControles.csproj|solutionrelative:mireloj.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginControl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\ControlesEjercicios\\LoginControl.cs",
+              "RelativeDocumentMoniker": "..\\ControlesEjercicios\\LoginControl.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\ControlesEjercicios\\LoginControl.cs",
+              "RelativeToolTip": "..\\ControlesEjercicios\\LoginControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:55:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\ControlesEjercicios\\LoginControl.cs",
+              "RelativeDocumentMoniker": "..\\ControlesEjercicios\\LoginControl.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\ControlesEjercicios\\LoginControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\ControlesEjercicios\\LoginControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:50:56.498Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\PruebaControlesEjercicio\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PruebaControlesEjercicio\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\PruebaControlesEjercicio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\PruebaControlesEjercicio\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:50:28.913Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginControl.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\LoginControl.cs",
+              "RelativeDocumentMoniker": "LoginControl.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\LoginControl.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LoginControl.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:07:51.263Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MisControles",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MisControles.csproj",
+              "RelativeDocumentMoniker": "MisControles.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MisControles.csproj",
+              "RelativeToolTip": "MisControles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T11:48:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PruebaControlesForm",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\PruebaControlesForm\\PruebaControlesForm.csproj",
+              "RelativeDocumentMoniker": "..\\PruebaControlesForm\\PruebaControlesForm.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\PruebaControlesForm\\PruebaControlesForm.csproj",
+              "RelativeToolTip": "..\\PruebaControlesForm\\PruebaControlesForm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T11:48:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\PruebaControlesForm\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PruebaControlesForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\PruebaControlesForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\PruebaControlesForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:23:43.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginControl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\LoginControl.cs",
+              "RelativeDocumentMoniker": "LoginControl.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\LoginControl.cs",
+              "RelativeToolTip": "LoginControl.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:42:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlesEjercicios.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\ControlesEjercicios\\ControlesEjercicios.csproj",
+              "RelativeDocumentMoniker": "..\\ControlesEjercicios\\ControlesEjercicios.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\ControlesEjercicios\\ControlesEjercicios.csproj",
+              "RelativeToolTip": "..\\ControlesEjercicios\\ControlesEjercicios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T12:52:01.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MiReloj.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiReloj.cs",
+              "RelativeDocumentMoniker": "MiReloj.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiReloj.cs",
+              "RelativeToolTip": "MiReloj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:45:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\LoginControl.Designer.cs",
+              "RelativeDocumentMoniker": "LoginControl.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\LoginControl.Designer.cs",
+              "RelativeToolTip": "LoginControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:40:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiAlarma2.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiAlarma2.cs",
+              "RelativeDocumentMoniker": "MiAlarma2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiAlarma2.cs",
+              "RelativeToolTip": "MiAlarma2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:48:18.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiAlarma2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiAlarma2.cs",
+              "RelativeDocumentMoniker": "MiAlarma2.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiAlarma2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiAlarma2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:47:56.958Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MiReloj.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiReloj.Designer.cs",
+              "RelativeDocumentMoniker": "MiReloj.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiReloj.Designer.cs",
+              "RelativeToolTip": "MiReloj.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:19:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiReloj.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiReloj.cs",
+              "RelativeDocumentMoniker": "MiReloj.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\CarlosGarcia\\DAM_DI\\Controles\\MiReloj.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MiReloj.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:56:43.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
