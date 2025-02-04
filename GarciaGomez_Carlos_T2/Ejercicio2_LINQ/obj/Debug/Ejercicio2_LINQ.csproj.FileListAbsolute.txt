@@ -1,0 +1,10 @@
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\bin\Debug\Ejercicio2_LINQ.exe.config
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\bin\Debug\Ejercicio2_LINQ.exe
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\bin\Debug\Ejercicio2_LINQ.pdb
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.csproj.AssemblyReference.cache
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.Form1.resources
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.Properties.Resources.resources
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.csproj.GenerateResource.cache
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.exe
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\GarciaGomez_Carlos_T2\Ejercicio2_LINQ\obj\Debug\Ejercicio2_LINQ.pdb

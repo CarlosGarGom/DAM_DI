@@ -1,0 +1,7 @@
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\bin\Debug\Datos3.exe.config
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\bin\Debug\Datos3.exe
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\bin\Debug\Datos3.pdb
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\obj\Debug\Datos3.csproj.AssemblyReference.cache
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\obj\Debug\Datos3.csproj.CoreCompileInputs.cache
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\obj\Debug\Datos3.exe
+C:\Users\carli\OneDrive\Escritorio\DAM\DAM_DI\DAM_DI\Datos3\obj\Debug\Datos3.pdb
